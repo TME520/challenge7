@@ -13,6 +13,7 @@ Tech challenge for Ticketek
 - 2021-08-27 12:10 Running a test deployment in ap-southeast-1 Singapore [Deploy IIS into a new VPC on AWS](https://fwd.aws/wEMJ3)
 - 2021-08-27 13:10 Blocked on AWS::ECS::Service creation (EcsService arn:aws:ecs:ap-southeast-1:090954478320:service/ECSCluster-Microsoft-IIS-IISStack-1XNOY28XPGZHB/Microsoft-IIS-IISStack-1XNOY28XPGZHB-ECSWinNodesStack-1D5CYY5NZ5OYO-EcsService-6kzzKKPuuI1X). Apparent cause: "Resource timed out waiting for completion (RequestToken: 4f65b3ac-17b6-5cea-2f0f-11ebe33e182c)"
 - 2021-08-28 09:52 Retry with new parameter: Deployment type set as EC2 instead of ECS - Success
+- 2021-08-29 14:00 Building the dotnet project on a test EC2 instance
 
 ## Infrastructure: what is getting deployed in AWS
 
